@@ -1,0 +1,75 @@
+*{margin: 0px;}
+#main
+{
+    height: 500px;
+    width: 1000px;
+    background: #E4F1F1;
+    margin: auto;
+    box-shadow: silver 0px 0px 30px 0px;
+    margin-top: 10px;
+}
+#if2f0
+{
+    background: #E4F1F1;
+    height: 30px;
+    width: auto;
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+
+#if2f1
+{
+    background: #FAE4CF;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #8000FF;
+    border: dashed green;
+    border-bottom: none;
+    font-weight: bolder;
+}
+#ketqua
+{
+    margin-top:5px;
+}
+#table
+{
+    margin-left: 90px;
+    width: 300px;
+}
+#if2f3
+{
+    background: #FCF5DC;
+    width: 500px;
+    height: 20px;
+    border: dashed green;
+    border-bottom: none;
+    border-top: none;
+    margin: auto;
+}
+#if2f2
+{
+    
+    background: #FCF5DC;
+    width: 500px;
+    margin: auto;
+    color: #00A400;
+    height: 150px;
+    border: dashed green;
+    border-top: none;
+}
+#ql
+{
+    font-family: cursive;
+    font-size: 17px;
+    color: #770000;
+    background: #EAEAFF;
+    height: 40px;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: bolder;
+}

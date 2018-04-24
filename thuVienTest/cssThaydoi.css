@@ -1,0 +1,110 @@
+
+#main
+{
+    height: 3000px;
+    width: 3000px;
+    background: #E4F1F1;
+    margin: auto;
+    box-shadow: silver 0px 0px 30px 0px;
+    margin-top: 10px;
+}
+#info1
+{
+    background: #24495F;
+    margin: auto;
+}
+#font2
+{
+	text-align:left;
+	width:230px;
+    color: blue;
+	text-decoration: none;
+}
+#if2f0
+{
+    background: #E4F1F1;
+    height: 30px;
+    width: auto;
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+
+#if2f1
+{
+    background: #FAE4CF;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #8000FF;
+    border: dashed green;
+    border-bottom: none;
+    font-weight: bolder;
+}
+#ketqua
+{
+    margin-top:5px;
+}
+#table
+{
+    margin-left: 50px;
+    width: 350px;
+}
+#td1
+{
+    color: blue;
+}
+#td2
+{
+    color: #5353FF;
+    font-style: italic;
+}
+#if2f3
+{
+    background: #FCF5DC;
+    width: 400px;
+    height: 20px;
+    border: dashed green;
+    border-bottom: none;
+    border-top: none;
+    margin: auto;
+}
+#if2f2
+{
+    
+    background: #FCF5DC;
+    width: 400px;
+    margin: auto;
+    
+    color: #00A400;
+    height: 150px;
+    border: dashed green;
+    border-top: none;
+}
+#mdk
+{
+    color: #8C0000;
+    font-family: cursive;
+}
+#dk
+{
+    color: blue;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 15px; 
+}
+#tb{
+    color: red;
+    font-family: cursive;;
+    font-weight: bolder;
+    font-size: 50px;
+}
+#bottom
+{
+    height: auto;
+    background: #E4F1F1;	
+    text-align: center;
+}
